@@ -1,6 +1,6 @@
 # Rishabh Pathak
 
-Senior Software Engineer. Backend and distributed systems.
+Senior AI/ML Engineer. Backend and distributed systems.
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://persona-twin.vercel.app/rishabh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhpathaknr)
